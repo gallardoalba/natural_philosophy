@@ -10,7 +10,7 @@ nature developed by the school of Miletus, this essay aims to defend the
 thesis that its development can only be understood as a deepening of the
 trend already initiated by the Ionian philosophers. Such a change of
 coordinates would be largely determined by two factors: first, by the
-replacement of the concept of δῐ́κη as a regulative principle by the
+replacement of the concept of *δῐ́κη* as a regulative principle by the
 concept of harmony. Secondly, by the replacement of ontological monism,
 represented by water, the *άπειρον* and the *πνεϋμα*, by a dualistic
 ontology, represented by the opposition *ἄπειρον-πέρας* . This would
