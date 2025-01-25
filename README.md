@@ -41,7 +41,7 @@ the term. The term *σοφια* has a very broad meaning in the Greek
 literary tradition, being applied indistinctly to all kinds of
 knowledge, both speculative and practical. In Homer, *σοφός* means a man
 skilled in mechanical arts. For Aristotle, philosophy is identical with
-c ience , embracing the whole body of human knowledge, distributed in
+science , embracing the whole body of human knowledge, distributed in
 conformity with the diverse variety of its objects.[^2]
 
 Another backbone concept of the present text is the concept of *φύσις*
