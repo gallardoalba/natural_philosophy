@@ -1,4 +1,4 @@
-## **Matter** **and form: reinterpretation of natural philosophy in the Pythagorean school**
+## **Matter** **and form: on the origin of science**
 
 Cristóbal Gallardo Alba
 
