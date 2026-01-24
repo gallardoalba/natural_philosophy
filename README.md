@@ -2,12 +2,13 @@
 
 Cristóbal Gallardo Alba
 
-### **Introduction**
+### **Summary**
+
+This text aims to provide a detailed description of the origin of natural philosophy, also known as science, understood as the constantly evolving process of knowledge generation based on observation, evidence and criticism. Specifically, this training focuses on the birth of science in the city of Miletus in the 6th century BC, and its subsequent evolution under the influence of the Pythagorean philosophers in the 5th century BC, during which the notion of science re-emerged as the mathematical understanding of nature. The emergence of natural philosophy holds a prominent place in the history of Western thought, as it marks the beginning of philosophy itself. 
 
 In contrast to the dominant conception, which considers that
 Pythagoreanism represented a break with respect to the philosophy of
-nature developed by the school of Miletus, this essay aims to defend the
-thesis that its development can only be understood as a deepening of the
+nature developed by the school of Miletus, its development could be understood as a deepening of the
 trend already initiated by the Ionian philosophers. Such a change of
 coordinates would be largely determined by two factors: first, by the
 replacement of the concept of *δῐ́κη* as a regulative principle by the
@@ -27,9 +28,9 @@ the dogmatic postmodern conception of history, according to which
 historical events are presented as a series of discontinuous fragments;
 as opposed to that view, the birth and development of philosophy is
 considered, in line with Guthrie, a product of temperament, experience
-and earlier philosophers .[^1]
+and earlier philosophers.[^1]
 
-**Development**
+### **Introduction**
 
 Before beginning, it is necessary to define a central concept in the
 present text, the concept of philosophy (*φιλοςσοφια*). Etymologically,
@@ -82,7 +83,7 @@ Pythagorean school with respect to the Ionian conception with regard to
 the philosophy of nature, I will proceed to describe, succinctly, the
 historical and cultural environment of the period in question.
 
-**Historical and cultural context**
+### **Historical and cultural context**
 
 It was in the region of Ionia, during the 6th century B.C. that the
 first fully rationalistic attempts to describe the nature of the world
@@ -214,7 +215,7 @@ infinite that surrounded it[^26] . In fact, for the Greeks, the divine
 character was deduced from the fact of immortality: eternal life is the
 mark of the divine, and of nothing else.
 
-**Natural philosophy in the school of Miletus.**
+### **Natural philosophy in the school of Miletus.**
 
 According to tradition, Thales (626/623-548/545 BC) is considered the
 first European philosopher, although it is not possible to affirm that
@@ -326,7 +327,7 @@ were certain basic forms, such as fire, water, and earth, of which other
 types were compounds. If true he would be the pioneer in considering the
 existence of simple substances and compound substances .[^47]
 
-**Natural philosophy in the Pythagorean school**
+### **Natural philosophy in the Pythagorean school**
 
 Before introducing the foundations of Pythagorean natural philosophy, it
 is necessary to clarify that the scarcity of original writings has
