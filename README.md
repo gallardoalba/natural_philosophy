@@ -2,6 +2,9 @@
 
 Cristóbal Gallardo Alba
 
+Note: the following essay was originally written for the course History of Ancient Philosophy I, part of the Philosophy Degree program.
+Original text: [Materia y forma: reinterpretación de la filosofía natural en la escuela pitagórica](https://github.com/user-attachments/files/24839861/gallardoalba.pdf).
+
 ### **Summary**
 
 This text aims to provide a detailed description of the origin of natural philosophy, also known as science, understood as the constantly evolving process of knowledge generation based on observation, evidence and criticism. Specifically, this training focuses on the birth of science in the city of Miletus in the 6th century BC, and its subsequent evolution under the influence of the Pythagorean philosophers in the 5th century BC, during which the notion of science re-emerged as the mathematical understanding of nature. The emergence of natural philosophy holds a prominent place in the history of Western thought, as it marks the beginning of philosophy itself. 
