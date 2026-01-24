@@ -3,6 +3,7 @@
 Cristóbal Gallardo Alba
 
 Note: the following essay was originally written for the course History of Ancient Philosophy I, part of the Philosophy Degree program.
+
 Original text: [Materia y forma: reinterpretación de la filosofía natural en la escuela pitagórica](https://github.com/user-attachments/files/24839861/gallardoalba.pdf).
 
 ### **Summary**
