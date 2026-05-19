@@ -1,4 +1,4 @@
-## Matter and Form: on the origin of Science**
+## Matter and Form: on the origin of Science
 
 Cristóbal Gallardo Alba
 
