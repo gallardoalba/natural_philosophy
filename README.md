@@ -8,7 +8,7 @@ Original text: [Materia y forma: reinterpretación de la filosofía natural en l
 
 ### **Summary**
 
-This text aims to provide a detailed description of the origin of natural philosophy, also known as science, understood as the constantly evolving process of knowledge generation based on observation, evidence and criticism. Specifically, this training focuses on the birth of science in the city of Miletus in the 6th century BC, and its subsequent evolution under the influence of the Pythagorean philosophers in the 5th century BC, during which the notion of science re-emerged as the mathematical understanding of nature. The emergence of natural philosophy holds a prominent place in the history of Western thought, as it marks the beginning of philosophy itself. 
+This text aims to provide a detailed description of the origin of natural philosophy, also known as science, understood as the constantly evolving process of knowledge generation based on observation, evidence and criticism. Specifically, this essay focuses on the birth of science in the city of Miletus in the 6th century BC, and its subsequent evolution under the influence of the Pythagorean philosophers in the 5th century BC, during which the notion of science re-emerged as the mathematical understanding of nature. The emergence of natural philosophy holds a prominent place in the history of Western thought, as it marks the beginning of philosophy itself. 
 
 In contrast to the dominant conception, which considers that
 Pythagoreanism represented a break with respect to the philosophy of
